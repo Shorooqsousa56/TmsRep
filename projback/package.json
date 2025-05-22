@@ -1,0 +1,23 @@
+{
+  "name": "projback",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "bcrypt": "^6.0.0",
+    "graphql": "^16.11.0",
+    "graphql-scalars": "^1.24.2",
+    "knex": "^3.1.0",
+    "mysql2": "^3.14.1",
+    "projback": "file:",
+    "ws": "^8.18.2"
+  }
+}
